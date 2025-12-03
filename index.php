@@ -10,7 +10,7 @@
     <h1>Exploring WordPress Customization</h1>
 
     <p><strong>Name:</strong> Christopher McPherson</p>
-    <p><strong>Date:</strong> February 3, 2025</p>
+    <p><strong>Date:</strong> December 2, 2025</p>
 
     <?php
         $siteName = "My WordPress Practice Site"; // string
